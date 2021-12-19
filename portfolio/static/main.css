@@ -1,9 +1,15 @@
 body {
-    background-color: #090909;
+    background-color: #06060a;
 }
 .bg-black {
     background-color: #000000;
 }
 .card-project:hover {
     cursor: pointer;
+}
+.navbar {
+    background-color: #15151d;
+    background: linear-gradient(45deg, #15151d 60%, #09090d 100%);
+    padding: 14px 0;
+    
 }
